@@ -1,0 +1,3 @@
+print ("poka")
+Print ("adias")
+print ("finish")
