@@ -2,3 +2,7 @@ System.out.println ("Привет");
 System.out.println ("Изменение приветствия2");
 print ("hello")
 print ("Ух сколько изменений")
+print1
+print2
+print3
+print ("Важное изменение")
